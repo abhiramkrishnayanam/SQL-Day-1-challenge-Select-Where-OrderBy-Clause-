@@ -21,7 +21,7 @@ SELECT column1, column2, ...
 FROM table_name
 WHERE condition;
 
-** Order By**
+**Order By**
 The ORDER BY clause sorts the result set based on one or more columns. You can sort the data in ascending (ASC) or descending (DESC) order.
 
 **Syntax:**
