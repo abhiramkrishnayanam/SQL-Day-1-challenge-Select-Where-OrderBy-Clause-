@@ -30,4 +30,5 @@ SELECT column1, column2, ...
 FROM table_name
 ORDER BY column1 [ASC|DESC], column2 [ASC|DESC], ...;
 
-![Screenshot (260)](https://github.com/user-attachments/assets/6d8f3e60-f8ba-47d3-84e5-cd30d9cd2d5c)
+![Screenshot (260)](https://github.com/user-attachments/assets/2f21bcea-6219-42b5-8ecc-2ca460348abe)
+
